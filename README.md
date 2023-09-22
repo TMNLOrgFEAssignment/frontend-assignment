@@ -214,11 +214,9 @@ As a user, I want to see the dashboard page, so I can have a better understandin
 - The user should be able to see the number of alerts in each status
 - The user should be able to see the 5 most recent alerts
 
-// story for the candidate to implement something that is not in the list
-
 ### Story 8 - Something else
 
-As an interviewer, I want to be surprised, so I can enjoy the alert application even more. ;)
+As an interviewer, I want to be surprised, so I can enjoy the alert application even more (Optional). ;)
 
 #### Acceptance Criteria
 
