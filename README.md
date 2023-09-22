@@ -22,7 +22,7 @@ And the most important: We hope you'll have fun when working on it :)
 ### Delivery instructions
 
 In order to work in this assignment, you can clone this repository, do all the necessary changes and when you are done, 
-you can reply to the recruiter with the link to your repository, or zip it and attach to the e-mail 
+then reply to the recruiter with the link to your repository or zip it and attach to the e-mail 
 (please make sure to delete node_modules and irrelevant files before zipping so it doesn't get really big and fail with the delivery).
 
 Please let us know if you have any issue or suggestion.
