@@ -2,6 +2,7 @@
 
 Congratulations! You have been selected to the Hard Skills Frontend Assignment at TMNL.
 
+
 ## Assignment
 
 In this step, we want to see you working in this Full Stack project and explore your expertise a more practical way.
@@ -17,7 +18,16 @@ Feel free to decide how much time to spend in this assignment.
 Usually it can be done in less than 4 hours, and as mentioned earlier, in this assessment quality is better than quantity.
 And the most important: We hope you'll have fun when working on it :)
 
-### Alert Application
+
+### Delivery instructions
+
+In order to work in this assignment, you can clone this repository, do all the necessary changes and when you are done, 
+you can reply to the recruiter with the link to your repository, or zip it and attach to the e-mail 
+(please make sure to delete node_modules and irrelevant files before zipping so it doesn't get really big and fail with the delivery).
+
+Please let us know if you have any issue or suggestion.
+
+##  Alert Application
 
 You are in the team responsible for managing the Anti-Money-Laundering Alerts that are raised from TMNL to the banks.
 In this assignment application, the Back-end is ready to be used and you have to build some Front-End functionalities.
