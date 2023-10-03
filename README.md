@@ -18,6 +18,9 @@ Feel free to decide how much time to spend in this assignment.
 Usually it can be done in less than 4 hours, and as mentioned earlier, in this assessment quality is better than quantity.
 And the most important: We hope you'll have fun when working on it :)
 
+In this assignment, quality is more important than quantity. So take your testing approach in consideration before proceeding to the next task. 
+Also, you are not expected to finish all the Stories, but instead to pick up the ones you believe you can demonstrate the best of your technical skills, and do it in a way you are proud of.
+The Front-End module structure is very simple, so feel free to suggest the structure you prefer.
 
 ### Delivery instructions
 
@@ -129,11 +132,6 @@ If you want to inspect its content, you can simply use any SQLite GUI and open t
 
 In case you want to manually use the Back-end API to check its content or create some dummy data, you can simply start the project and open the
 [Swagger API on http://localhost:3000/api](http://localhost:3000/api) and play with the REST API.
-
-### Tasks
-
-In this assignment, quality matters more than quantity. So take it in consideration before proceeding to the next task.
-The Front-End module structure is very simple, so feel free to suggest the structure you prefer.
 
 ## Stories
 
