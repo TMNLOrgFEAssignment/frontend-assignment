@@ -8,18 +8,26 @@ Congratulations! You have been selected to the Hard Skills Frontend Assignment a
 In this step, we want to see you working in this Full Stack project and explore your expertise a more practical way.
 
 The project is organized in two application modules: backend and frontend.
+
 While you can change anything in both modules, the backend module should be enough to fulfill all the assignment Back-end requirements.
 So the focus is to work in the frontend module.
 
+
 You are allowed to install or remove any libraries or even dismiss the entire project and do it from scratch if you prefer.
+
 We are just offering a working scaffolding with an implemented Back-End and generated Client, so you don't have to spend time on it
 and focus in the tasks, but you can do it the way you prefer. But it has to be implemented using Typescript and React.
 Feel free to decide how much time to spend in this assignment.
+
+
 Usually it can be done in less than 4 hours, and as mentioned earlier, in this assessment quality is better than quantity.
 And the most important: We hope you'll have fun when working on it :)
 
+
 In this assignment, quality is more important than quantity. So take your testing approach in consideration before proceeding to the next task. 
+
 Also, you are not expected to finish all the Stories, but instead to pick up the ones you believe you can demonstrate the best of your technical skills, and do it in a way you are proud of.
+
 The Front-End module structure is very simple, so feel free to suggest the structure you prefer.
 
 ### Delivery instructions
@@ -33,6 +41,7 @@ Please let us know if you have any issue or suggestion.
 ##  Alert Application
 
 You are in the team responsible for managing the Anti-Money-Laundering Alerts that are raised from TMNL to the banks.
+
 In this assignment application, the Back-end is ready to be used and you have to build some Front-End functionalities.
 
 - What is an Alert?
@@ -136,8 +145,10 @@ In case you want to manually use the Back-end API to check its content or create
 ## Stories
 
 The following is a list of stories you can choose from to implement. Choose the ones you feel more comfortable with and implement them in the order you prefer.
+
 We expect you to implement at least 3 stories, but feel free to implement more if you want. Also, to timebox the assignment,
 we suggest you to spend no more than 4 to 6 hours on it.
+
 
 In general for our application we want to have a good user experience, so we want to have a good looking application, with a good navigation and a good feedback
 to the user. So, feel free to use any library you want to achieve that.
