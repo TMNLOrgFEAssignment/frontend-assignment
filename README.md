@@ -17,8 +17,7 @@ You are allowed to install or remove any libraries or even dismiss the entire pr
 
 We are just offering a working scaffolding with an implemented Back-End and generated Client, so you don't have to spend time on it
 and focus in the tasks, but you can do it the way you prefer. But it has to be implemented using Typescript and React.
-Feel free to decide how much time to spend in this assignment.
-
+Feel free to decide how much time to spend in this assignment (we advise not spending more than 4 hours).
 
 Usually it can be done in less than 4 hours, and as mentioned earlier, in this assessment quality is better than quantity.
 And the most important: We hope you'll have fun when working on it :)
